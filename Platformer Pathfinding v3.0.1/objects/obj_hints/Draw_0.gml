@@ -1,0 +1,1 @@
+draw_text(x, y, "Real-time platformer pathfinding by Andrew Canafe.\n\nControls: [A], [D] to move and [SPACE] to jump.\nHover mouse over platforms to see node connections.");
